@@ -9,4 +9,4 @@
 ![Linguagens principais](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohmsantos&layout=compact&theme=transparent)
 
 ## Contato  
-- **LinkedIn**: [[seu perfil](https://www.linkedin.com/in/gustavohmsantos/)]
+- **LinkedIn**: [[link](https://www.linkedin.com/in/gustavohmsantos/)]
