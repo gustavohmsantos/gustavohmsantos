@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Gustavo Santos
+# 👋 Olá
 
 ## Sobre mim  
 - Desenvolvedor Full Stack com mais de 3 anos de experiência  
